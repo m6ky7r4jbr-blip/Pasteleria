@@ -1,0 +1,6 @@
+{
+  "name": "Pastelería — Клубника в шоколаде",
+  "description": "Продающий высококонверсионный лендинг премиальной кондитерской клубники в бельгийском шоколаде, построенный на маркетинговой воронке AIDA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
